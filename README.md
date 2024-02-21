@@ -1,4 +1,5 @@
 Lab 1: Quadratic Equation Solver
+
 Develop a Java program that prints all real solutions to the quadratic equation ax2+bx+c = 0. Read in a, b, c and use the quadratic formula. If the discriminate b2-4ac is negative, display a message stating that there are no real solutions.
 Lab 2: Student Class with SGPA Calculation
 Program Description: Create a class Student with attributes such as usn, name, an array of credits, and an array of marks. Implement methods to accept and display details and calculate the SGPA of a student.
