@@ -29,5 +29,6 @@ Program Description: Implement exception handling in an inheritance tree. Create
 Lab 8: Multithreading
 
 Program Description: Create two threads—one displaying "BMS College of Engineering" every ten seconds and the other displaying "CSE" every two seconds.
+
 Lab 9: User Interface with Exception Handling
 Program Description: Create a user interface to perform integer divisions. Handle exceptions like NumberFormatException and ArithmeticException when the user enters invalid input or tries to divide by zero.
